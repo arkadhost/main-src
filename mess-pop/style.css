@@ -1,4 +1,4 @@
-        * {
+* {
             font-family: sans-serif;
         }
 
@@ -29,8 +29,6 @@
         .t2 {
             display: none;
         }
-    </style>
-    <style>
         .fa-facebook-messenger {
             background: linear-gradient(191deg, #ff4a00, #ef50ed, #0093ff);
             background-size: 250% 250%;
